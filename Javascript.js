@@ -1,4 +1,4 @@
-/*-----------------BELOdsdsd IS PRELOADER-------------*/
+/*-----------------BELOW IS PRELOADER-------------*/
 
 let timer1
 let timer2
